@@ -1,0 +1,5 @@
+com\Neoris\ChallengeApplication.class
+com\Neoris\Repository\PhonesDTO.class
+com\Neoris\Controller\UserController.class
+com\Neoris\Repository\UserDTO.class
+com\Neoris\Service\UserService.class
